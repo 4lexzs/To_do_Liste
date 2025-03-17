@@ -56,4 +56,4 @@ MIT
 
 ## Autor
 
-Dein Name
+Edwin Alexander Paucar
