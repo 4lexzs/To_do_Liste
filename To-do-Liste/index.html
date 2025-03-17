@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moderne To-Do App</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Meine Aufgaben</h1>
+            <button class="theme-toggle" id="theme-toggle">
+                <i class="fas fa-moon"></i>
+            </button>
+        </header>
+
+        <div class="card">
+            <div class="input-group">
+                <input type="text" id="todo-input" placeholder="Neue Aufgabe hinzufügen...">
+                <button id="add-button">Hinzufügen</button>
+            </div>
+
+            <div class="tasks-container">
+                <ul id="todo-list"></ul>
+                
+                <div id="empty-state" class="empty-state">
+                    <i class="fas fa-clipboard-list"></i>
+                    <p>Keine Aufgaben vorhanden</p>
+                    <p>Füge deine erste Aufgabe hinzu!</p>
+                </div>
+            </div>
+
+            <div class="stats">
+                <span id="tasks-counter">0 Aufgaben insgesamt</span>
+                <span id="completed-counter">0 erledigt</span>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
