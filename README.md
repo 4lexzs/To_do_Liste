@@ -2,7 +2,7 @@
 
 Eine elegante und benutzerfreundliche To-Do-Liste App mit HTML, CSS und JavaScript.
 
-![Screenshot der To-Do App](https://via.placeholder.com/800x450.png?text=Todo+App+Screenshot)
+![image](https://github.com/user-attachments/assets/80bd5458-e2b2-4b41-bf5f-566588954c85)
 
 ## Features
 
