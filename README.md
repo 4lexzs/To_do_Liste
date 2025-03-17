@@ -32,16 +32,6 @@ todo-app/
 └── README.md       # Projektdokumentation
 ```
 
-## Installation und Nutzung
-
-1. Klone dieses Repository oder lade die Dateien herunter
-2. Öffne die `index.html` Datei in deinem Browser
-3. Beginne mit dem Hinzufügen deiner Aufgaben!
-
-## Live Demo
-
-[Hier klicken, um die Live-Demo zu sehen](#) (Füge deinen eigenen Link hinzu, wenn du das Projekt hostest)
-
 ## Mögliche Erweiterungen
 
 - Drag-and-Drop für die Neuanordnung von Aufgaben
